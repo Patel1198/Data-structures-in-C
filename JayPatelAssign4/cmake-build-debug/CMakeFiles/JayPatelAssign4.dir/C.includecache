@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jayko/CLionProjects/JayPatelAssign4/main.c
+stdio.h
+-
+mohilities.h
+C:/Users/jayko/CLionProjects/JayPatelAssign4/mohilities.h
+randomGraph.h
+C:/Users/jayko/CLionProjects/JayPatelAssign4/randomGraph.h
+
+C:/Users/jayko/CLionProjects/JayPatelAssign4/mohilities.h
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+limits.h
+-
+
+C:/Users/jayko/CLionProjects/JayPatelAssign4/randomGraph.h
+stdio.h
+-
+

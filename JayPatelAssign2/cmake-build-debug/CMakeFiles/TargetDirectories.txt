@@ -1,0 +1,3 @@
+C:/Users/jayko/CLionProjects/JayPatelAssign2/cmake-build-debug/CMakeFiles/JayPatelAssign2.dir
+C:/Users/jayko/CLionProjects/JayPatelAssign2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jayko/CLionProjects/JayPatelAssign2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
