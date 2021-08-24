@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jayko/CLionProjects/JayPatelAssign3/Assign3.h
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+limits.h
+-
+
+C:/Users/jayko/CLionProjects/JayPatelAssign3/main.c
+stdio.h
+-
+string.h
+-
+Assign3.h
+C:/Users/jayko/CLionProjects/JayPatelAssign3/Assign3.h
+
